@@ -1,0 +1,9 @@
+<suite name="testsuite">
+<test name="mytest">
+<classes>
+<class name="com.githubcodepush.Test1" />
+<class name="com.githubcodepush.Test2" />
+<class name="com.githubcodepush.Test3" />
+</classes>
+</test>
+</suite>
