@@ -19,6 +19,7 @@ public class Test3 {
 	@AfterMethod
 	public void afterMethod(){
 		System.out.println("This is after method of test3 class");
+		System.out.println("End of execution");
 		driver.close();
 	}
   @Test
